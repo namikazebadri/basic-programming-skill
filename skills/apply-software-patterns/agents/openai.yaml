@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply Software Patterns"
+  short_description: "Choose patterns, boundaries, and architecture wisely"
+  default_prompt: "Use $apply-software-patterns to review this codebase, recommend the simplest fitting design patterns or architectural refactors, and keep the result readable for humans."
