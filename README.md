@@ -45,6 +45,7 @@ npx skills add namikazebadri/basic-programming-skill --skill <skill-name>
 Examples:
 
 ```bash
+npx skills add namikazebadri/basic-programming-skill
 npx skills add namikazebadri/basic-programming-skill --skill apply-software-patterns
 npx skills add namikazebadri/basic-programming-skill --skill apply-clean-code
 npx skills add namikazebadri/basic-programming-skill --skill apply-solid-principles
