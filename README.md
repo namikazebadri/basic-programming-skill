@@ -39,16 +39,16 @@ This repository is structured to work well with:
 Install a skill from this repository with:
 
 ```bash
-npx skills add https://github.com/namikazebadri/basic-programming-skill --skill <skill-name>
+npx skills add namikazebadri/basic-programming-skill --skill <skill-name>
 ```
 
 Examples:
 
 ```bash
-npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-software-patterns
-npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-clean-code
-npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-solid-principles
-npx skills add https://github.com/namikazebadri/basic-programming-skill --skill review-code-smells
+npx skills add namikazebadri/basic-programming-skill --skill apply-software-patterns
+npx skills add namikazebadri/basic-programming-skill --skill apply-clean-code
+npx skills add namikazebadri/basic-programming-skill --skill apply-solid-principles
+npx skills add namikazebadri/basic-programming-skill --skill review-code-smells
 ```
 
 Install from a local checkout:
