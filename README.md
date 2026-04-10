@@ -39,16 +39,16 @@ This repository is structured to work well with:
 Install a skill from this repository with:
 
 ```bash
-npx skills add https://github.com/namikazebadri/coding-pattern-skill --skill <skill-name>
+npx skills add https://github.com/namikazebadri/basic-programming-skill --skill <skill-name>
 ```
 
 Examples:
 
 ```bash
-npx skills add https://github.com/namikazebadri/coding-pattern-skill --skill apply-software-patterns
-npx skills add https://github.com/namikazebadri/coding-pattern-skill --skill apply-clean-code
-npx skills add https://github.com/namikazebadri/coding-pattern-skill --skill apply-solid-principles
-npx skills add https://github.com/namikazebadri/coding-pattern-skill --skill review-code-smells
+npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-software-patterns
+npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-clean-code
+npx skills add https://github.com/namikazebadri/basic-programming-skill --skill apply-solid-principles
+npx skills add https://github.com/namikazebadri/basic-programming-skill --skill review-code-smells
 ```
 
 Install from a local checkout:
@@ -86,7 +86,7 @@ Claude Code can use these files to route tasks to the most relevant skill adapte
 
 ## Repository
 
-- GitHub: [namikazebadri/coding-pattern-skill](https://github.com/namikazebadri/coding-pattern-skill)
+- GitHub: [namikazebadri/basic-programming-skill](https://github.com/namikazebadri/basic-programming-skill)
 
 ## Repository Layout
 
