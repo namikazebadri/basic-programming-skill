@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Code Smells"
+  short_description: "Find maintainability risks that actually matter"
+  default_prompt: "Use $review-code-smells to review this code for the most important maintainability smells and suggest practical fixes."

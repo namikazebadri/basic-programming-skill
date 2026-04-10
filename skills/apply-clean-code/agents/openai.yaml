@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply Clean Code"
+  short_description: "Make code clearer without becoming dogmatic"
+  default_prompt: "Use $apply-clean-code to review or refactor this code so it is easier for humans to read, maintain, and test."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply SOLID Principles"
+  short_description: "Improve design without SOLID dogma"
+  default_prompt: "Use $apply-solid-principles to review or refactor this code with practical SOLID reasoning and minimal necessary abstraction."
